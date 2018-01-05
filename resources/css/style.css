@@ -41,3 +41,7 @@ h3 {
   margin: 0 auto;
   display: block;
 }
+
+#copyright {
+  text-align: right;
+}
